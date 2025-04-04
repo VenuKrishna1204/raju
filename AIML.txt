@@ -1,0 +1,1 @@
+ Sentence tokenization is the process of identifying the boundary of the sentences. It is also called sentence boundary detection or sentence segmentation or sentence boundary disambiguation. This process identifies the sentences starting and ending points.
